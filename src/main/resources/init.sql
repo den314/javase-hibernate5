@@ -1,0 +1,1 @@
+insert into T1 (name) values ('hello world');
